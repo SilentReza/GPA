@@ -1,0 +1,10 @@
+* {
+    font-family: iranyekan;
+    font-size: medium;
+    text-decoration: none;
+}
+
+/* margin for offcanvas content */
+.input-lesson {
+    margin-top: 50%;
+}
